@@ -1,0 +1,14 @@
+{
+    "name": "Dark Purple Professional",
+    "dataColors": [
+        "#E56B8A",
+        "#F2C66D",
+        "#8B7CF6",
+        "#B8A8FF",
+        "#F38BA0",
+        "#E9B949"
+    ],
+    "background": "#2B2746",
+    "foreground": "#F3F4F6",
+    "tableAccent": "#8B7CF6"
+}
