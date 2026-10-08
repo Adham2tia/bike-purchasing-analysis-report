@@ -150,11 +150,19 @@ Includes:
 
 ## 📸 Dashboard Preview
 
-> Add screenshots of:
->
-> - Main Dashboard
-> - Details Dashboard
-> - Customer Persona Dashboard
+## 📸 Dashboard Preview
+
+### 🏠 Main Dashboard
+
+![Main Dashboard](images/main-dashboard.png)
+
+### 📈 Details Dashboard
+
+![Details Dashboard](images/details-dashboard.jpeg)
+
+### 👥 Customer Persona Dashboard
+
+![Customer Persona Dashboard](images/customer-persona-dashboard.png)
 
 ---
 
